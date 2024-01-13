@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,800&display=swap" rel="stylesheet">
+
+  <script type="module" src="js/script.js"></script> 
+  <link rel="stylesheet" href="main.scss">
+  
+  <title>Frontend Mentor | Age calculator app</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; margin-top: 3rem;}
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
+
+  <main>
+    <h1 class="visually-hidden">Age calculator application</h1>
+
+    <div class="age-generator">
+      <form class="form js-form">
+
+        <div class="dateform-container">
+          <div class="form-control day-control">
+            <label for="day">Day</label>
+            <input id="day" placeholder="DD" type="number" aria-describedby="day-validation" min="0" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" onchange="if(this.value.length === 1)this.value='0'+this.value;">
+            <small id="day-validation" aria-live="assertive"></small>
+          </div>
+    
+          <div class="form-control month-control">
+            <label for="month">Month</label>
+            <input id="month" placeholder="MM" type="number" aria-describedby="month-validation" min="0" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))" onchange="if(this.value.length === 1)this.value='0'+this.value;">
+            <small id="month-validation" aria-live="assertive"></small>
+          </div>
+    
+          <div class="form-control year-control">
+            <label for="year">Year</label>
+            <input id="year" placeholder="YYYY" type="number" aria-describedby="year-validation" min="0" onkeypress="return (event.charCode !=8 && event.charCode ==0 || (event.charCode >= 48 && event.charCode <= 57))">
+            <small id="year-validation" aria-live="assertive"></small>
+          </div>
+        </div>
+
+        <span class="date hidden" id="date-validation" aria-live="assertive"></span>
+
+        <button class="btn js-btn" aria-label="to calculate the year">
+          <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="46" height="44" viewBox="0 0 46 44"><g fill="none" stroke="#FFF" stroke-width="4"><path d="M1 22.019C8.333 21.686 23 25.616 23 44M23 44V0M45 22.019C37.667 21.686 23 25.616 23 44"/></g></svg>
+        </button>
+
+      </form>
+
+      <div class="date-display">
+        <h2><span class="year-output">--</span> years</h2>
+        <h2><span class="month-output">--</span> months</h2>
+        <h2><span class="day-output">--</span> days</h2>
+      </div>
+
+    </div>
+
+  </main>
+
+  <footer class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Cho Sung Jin</a>.
+  </footer>
+</body>
+</html>

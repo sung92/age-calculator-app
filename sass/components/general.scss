@@ -1,0 +1,171 @@
+@use "../abstracts/functions.scss" as f;
+@use "../abstracts/colors.scss";
+
+/**/
+
+.age-generator {
+    padding: f.rem(50px) f.rem(20px);
+    background-color: var(--color-white);
+    border-radius: f.rem(20px);
+    border-bottom-right-radius: f.rem(150px);
+}
+
+.form {
+    position: relative;
+
+    border-bottom: 1.5px solid var(--color-light-grey);
+    padding-bottom: f.rem(10px);
+}
+
+.dateform-container {
+    display: flex;
+    gap: f.rem(20px);
+    margin-bottom: f.rem(60px);
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    gap: f.rem(5px);
+}
+
+.form-control label {
+    text-transform: uppercase;
+    font-size: f.rem(14px);
+    font-weight: 800;
+    color: var(--color-smokey-grey);
+}
+
+.form-control input {
+    font-size: f.rem(20px);
+    border-radius: f.rem(10px);
+    border: 1px solid var(--color-light-grey);
+    padding: f.rem(15px);
+    width: 100%;
+    max-width: f.rem(112px);
+}
+
+.day-control, .month-control,
+.year-control {
+    // Each small takes the closes relative
+    position: relative;
+}
+
+small {
+    position: absolute;
+    bottom: f.rem(-30px);
+    left: f.rem(5px);
+    color: var(--color-error);
+    font-size: f.rem(10px);
+    font-weight: 400;
+    font-style: italic;
+    visibility: hidden;
+}
+
+/*Form control error*/
+.form-control.error label {
+    color: var(--color-error);
+}
+
+.form-control.error input {
+    border: 1px solid var(--color-error);
+}
+
+.form-control.error small {
+    visibility: visible;
+}
+
+/*Date validation error*/
+.date {
+    font-size: f.rem(14px);
+    font-style: italic;
+    color: var(--color-error);
+    position: absolute;
+    bottom: f.rem(35px);
+    left: f.rem(10px);
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.btn {
+    display: flex;
+    position: absolute;
+    border: none;
+    border-radius: 50%;
+    background-color: var(--color-purple);
+    padding: f.rem(20px);
+
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.btn svg {
+    width: f.rem(32px);
+    height: f.rem(32px);
+}
+
+/*DATE DISPLAY*/
+/**************/
+.date-display {
+    margin-top: f.rem(60px);
+}
+
+h2 {
+    font-size: f.rem(56px);
+    font-style: italic;
+    font-weight: 800;
+}
+
+h2 span {
+    color: var(--color-purple);
+}
+
+@media (width > 47em) {
+    .age-generator {
+      padding: f.rem(50px) f.rem(40px);
+    }
+
+    .form {
+        padding-right: f.rem(160px);
+    }
+
+    .form-control {
+        gap: f.rem(10px);
+    }
+
+    .form-control input {
+        max-width: f.rem(150px);
+    }
+
+    small {
+        bottom: f.rem(-25px);
+        font-size: f.rem(12px);
+    }
+
+    .btn {
+        left: 93%;
+        cursor: pointer;
+
+        &:hover {
+            background-color: black;
+        }
+    }
+
+    .btn svg {
+        width: f.rem(44px);
+        height: f.rem(44px);
+    }
+
+    /*DATE DISPLAY*/
+    /**************/
+    .date-display {
+        line-height: f.rem(110px);
+    }
+
+    h2 {
+        font-size: f.rem(104px);
+    }
+  }
