@@ -166,7 +166,7 @@ function calculateAge() {
 
     // console.log(`${years} years : ${months} months : ${days} days remaining`);
 
-    // console.log(years, months, days);
+    console.log(years, months, days);
 
     let i = 0;
     let i2 = 0;
