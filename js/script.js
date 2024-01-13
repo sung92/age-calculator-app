@@ -149,7 +149,7 @@ function calculateAge() {
     if(!dayjs(inputDate).isBefore(dayjs(formattedDate))) {
         // Mejorar el output error de esto, quizás un tercer argumento.
         const dateValidation = document.querySelector('.date');
-        setErrorFor(dateValidation, `Date must be before today's day`, true);
+        setErrorFor(dateValidation, `Today's date must precede the current day`, true);
         return false;
     }
 
