@@ -95,7 +95,7 @@ small {
     border: none;
     border-radius: 50%;
     background-color: var(--color-purple);
-    padding: f.rem(20px);
+    padding: f.rem(15px);
 
     bottom: 0;
     left: 50%;
@@ -103,8 +103,8 @@ small {
 }
 
 .btn svg {
-    width: f.rem(32px);
-    height: f.rem(32px);
+    width: f.rem(44px);
+    height: f.rem(44px);
 }
 
 /*DATE DISPLAY*/
@@ -146,6 +146,7 @@ h2 span {
     }
 
     .btn {
+        padding: f.rem(25px);
         left: 93%;
         cursor: pointer;
 
