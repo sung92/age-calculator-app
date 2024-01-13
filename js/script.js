@@ -165,8 +165,38 @@ function calculateAge() {
     if(days === undefined) days = '0';
 
     // console.log(`${years} years : ${months} months : ${days} days remaining`);
-    
-    document.querySelector('.year-output').innerHTML = years;
-    document.querySelector('.month-output').innerHTML = months;
-    document.querySelector('.day-output').innerHTML = days;
+
+    console.log(years, months, days);
+
+    let i = 0;
+    let i2 = 0;
+    let i3 = 0;
+    counter = setInterval(foo, 100);
+    counter2 = setInterval(foo2, 100);
+    counter3 = setInterval(foo3, 100);
+    function foo() {
+        document.querySelector('.year-output').innerHTML = `${i}`;
+        i++;
+        if (i >= years+1) clearInterval(counter);
+    }
+
+    function foo2() {
+        document.querySelector('.month-output').innerHTML = `${i2}`;
+        i2++;
+        if (i2 >= months+1) clearInterval(counter2);
+    }
+
+    function foo3() {
+        document.querySelector('.day-output').innerHTML = `${i3}`;
+        i3++;
+        if (i3 >= days+1) clearInterval(counter3);
+    }
+
+
+    // below doesn't work!
+    // for( let i = 1 ; i >= years ; i++) {
+    //     setTimeout(() => {
+    //         document.querySelector('.year-output').innerHTML = `${i}`;
+    //     }, 0);
+    // }
 }
