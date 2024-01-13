@@ -41,7 +41,7 @@
 175C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133493234347552660 0
 166C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@swc\core\bindings\binding_core_wasm133493234350937864 1
 189C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133493234358649499 0
-121C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist133496016278537719 1
+121C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist133496021980850049 1
 173C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\pt\_lib\formatRelative.d.ts133495912755416402 0
 156C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\dayjs\plugin\weekOfYear.js133494178587722588 0
 176C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\_lib\buildMatchPatternFn.d.mts133495912736015161 0
@@ -59,7 +59,7 @@
 166C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\node-addon-api\tools\clang-format.js133493234354065961 0
 135C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@lmdb133495912764399410 1
 159C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\previousTuesday.d.ts133495912761721018 0
-127C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\index.html133495025379476548 0
+127C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\index.html133496021895247478 0
 153C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\fp\endOfDay.js133495912688644880 0
 159C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\source-map\dist\source-map.js133493234357888875 0
 177C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@parcel\transformer-sass\src\SassTransformer.js133493234867308525 0
@@ -215,10 +215,10 @@
 141C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\detect-libc133493234348429944 1
 182C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts133493234355435011 0
 150C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\cli-progress\presets133493234356060284 1
-145C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\sass\components\general.scss133496016277302975 0
+145C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\sass\components\general.scss133496021979853356 0
 141C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\glob-parent133493234867328551 1
 199C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\types.d.ts.map133493234358015342 0
-137C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\sass\base\_base.scss133493319402334572 0
+137C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\sass\base\_base.scss133496020219179251 0
 150C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\lightningcss\LICENSE133493234343258645 0
 178C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree133493234371288323 1
 148C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\dayjs\locale\hr.js133494178582071417 0
@@ -4384,7 +4384,7 @@
 155C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\dayjs\esm\locale\tl-ph.js133494178587081485 0
 158C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@parcel\profiler\build-ts.js133493234343908548 0
 153C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\dayjs\esm\locale\tlh.js133494178587101512 0
-129C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\js\script.js133496012082166588 0
+129C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\js\script.js133496021734058056 0
 171C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\sk\_lib\formatDistance.js133495912692611485 0
 153C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\dayjs\esm\locale\tzm.js133494178587166580 0
 173C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\th\_lib\formatRelative.d.ts133495912755471546 0
@@ -6525,7 +6525,7 @@
 174C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\nn\_lib\formatRelative.d.mts133495912740040077 0
 164C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\css-tree\lib\syntax\atrule\page.js133493234377020157 0
 162C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\lb\_lib\match.js133495912706441757 0
-143C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.4de9b498.js.map133496012083232980 0
+143C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.4de9b498.js.map133496021735292224 0
 173C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\nn\_lib\formatRelative.d.ts133495912755406391 0
 171C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\nn\_lib\formatRelative.js133495912697129795 0
 172C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\date-fns\locale\nn\_lib\formatRelative.mjs133495912721303766 0
@@ -9222,7 +9222,7 @@
 171C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\caniuse-lite\data\features\blobbuilder.js133493234366119481 0
 172C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\caniuse-lite\data\features\border-image.js133493234366744131 0
 176C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\caniuse-lite\data\features\broadcastchannel.js133493234366833489 0
-140C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.b1276d39.css133496016278514752 0
+140C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.b1276d39.css133496021980840034 0
 201C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\generator\index.js133493234365547217 0
 171C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\caniuse-lite\data\features\canvas-text.js133493234368138728 0
 167C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\caniuse-lite\data\features\ch-unit.js133493234368253888 0
@@ -11023,7 +11023,7 @@
 186C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@babel\helper-validator-identifier\lib\identifier.js.map133493234347532648 0
 177C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@babel\helper-validator-identifier\lib\index.js133493234347839271 0
 172C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@babel\code-frame\node_modules\ansi-styles133493234346384094 1
-139C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.4de9b498.js133496012083212281 0
+139C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.4de9b498.js133496021735252189 0
 166C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@babel\code-frame\node_modules\chalk133493234349103090 1
 174C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@babel\code-frame\node_modules\color-convert133493234349614754 1
 169C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\node_modules\@babel\code-frame\node_modules\has-flag133493234346384094 1
@@ -11079,9 +11079,9 @@
 169C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\age-calculator-app-main.3464ddca.js.map.31188.b133493329723747916 0
 170C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\age-calculator-app-main.3464ddca.js.map.36728.45133493300572418414 0
 169C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\age-calculator-app-main.3464ddca.js.map.40456.b133493243414705374 0
-148C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\favicon-32x32.d48f6cd1.png133495914303327085 0
-144C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.b1276d39.css.map133496016278524757 0
-132C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.html133495914303926046 0
+148C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\favicon-32x32.d48f6cd1.png133496021313226296 0
+144C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.b1276d39.css.map133496021980850049 0
+132C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\dist\index.html133496021896536334 0
 145C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\design\desktop-completed.jpg133493212727077611 0
 142C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\design\desktop-design.jpg133493212727353205 0
 149C:\Users\Sung Jin\Desktop\FrontendMentor\2. Junior\6. age-calculator\age-calculator-app-main\age-calculator-app-main\design\desktop-error-invalid.jpg133493212727592562 0

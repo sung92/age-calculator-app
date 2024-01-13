@@ -14,7 +14,7 @@
     position: relative;
 
     border-bottom: 1.5px solid var(--color-light-grey);
-    padding-bottom: f.rem(10px);
+    padding-bottom: f.rem(20px);
 }
 
 .dateform-container {
@@ -76,12 +76,12 @@ small {
 }
 
 /*Date validation error*/
-.date {
+.date-error {
     font-size: f.rem(14px);
     font-style: italic;
     color: var(--color-error);
     position: absolute;
-    bottom: f.rem(35px);
+    bottom: f.rem(50px);
     left: f.rem(10px);
 }
 
