@@ -73,7 +73,7 @@ function setErrorFor(input, message, dateValid = false) {
     if(dateValid === true) {
         setTimeout(() => {
             input.classList.toggle('hidden');
-        }, 2000);
+        }, 3000);
         input.innerText = message;
         input.classList.toggle('hidden');
     }
