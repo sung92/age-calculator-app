@@ -171,9 +171,9 @@ function calculateAge() {
     let i = 0;
     let i2 = 0;
     let i3 = 0;
-    counter = setInterval(foo, 100);
-    counter2 = setInterval(foo2, 100);
-    counter3 = setInterval(foo3, 100);
+    const counter = setInterval(foo, 100);
+    const counter2 = setInterval(foo2, 100);
+    const counter3 = setInterval(foo3, 100);
     function foo() {
         document.querySelector('.year-output').innerHTML = `${i}`;
         i++;
